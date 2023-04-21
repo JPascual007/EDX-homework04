@@ -1,7 +1,5 @@
 # Code Quiz
 
-# Password Generator
-
 ## Description
 
 GIVEN I am taking a code quiz
